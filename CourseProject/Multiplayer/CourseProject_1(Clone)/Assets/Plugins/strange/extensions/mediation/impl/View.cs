@@ -140,7 +140,7 @@ namespace strange.extensions.mediation.impl
 								break;
 							case BubbleType.Remove:
 								context.RemoveView(view);
-								break;
+						        break;
 							case BubbleType.Enable:
 								context.EnableView(view);
 								break;

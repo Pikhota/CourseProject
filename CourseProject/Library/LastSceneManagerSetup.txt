@@ -1,4 +1,13 @@
 sceneSetups:
-- path: Assets/Scenes/Polygon.unity
+- path: Assets/Scenes/App.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Scenes/Cameras.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/Game.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/UI.unity
+  isLoaded: 1
+  isActive: 0

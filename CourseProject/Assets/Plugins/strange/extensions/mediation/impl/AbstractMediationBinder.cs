@@ -239,9 +239,9 @@ namespace strange.extensions.mediation.impl
 					}
 					ApplyMediationToView (binding, view, mediatorType);
 
-					if (view.enabled)
-						EnableMediator(view, mediatorType);
-				}
+                    //if (view.enabled)
+                    //    EnableMediator(view, mediatorType);
+                }
 			}
 		}
 

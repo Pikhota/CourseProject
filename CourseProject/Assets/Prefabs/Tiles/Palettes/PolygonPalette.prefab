@@ -146,13 +146,13 @@ Tilemap:
   m_Tiles:
   - first: {x: -1, y: 3, z: 0}
     second:
-      m_TileIndex: 2
-      m_TileSpriteIndex: 2
+      m_TileIndex: 1
+      m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
-      m_ColliderType: 1
+      m_ColliderType: 0
   - first: {x: 0, y: 3, z: 0}
     second:
       m_TileIndex: 1
@@ -173,13 +173,13 @@ Tilemap:
       m_ColliderType: 1
   - first: {x: -1, y: 4, z: 0}
     second:
-      m_TileIndex: 3
-      m_TileSpriteIndex: 3
+      m_TileIndex: 2
+      m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
-      m_ColliderType: 1
+      m_ColliderType: 0
   - first: {x: 0, y: 4, z: 0}
     second:
       m_TileIndex: 4
@@ -193,23 +193,23 @@ Tilemap:
   m_TileAssetArray:
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 63442159232509d4e823a21263f95e6e, type: 2}
-  - m_RefCount: 1
+  - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 2cf930a0b52540a4aa90474c09be5ed4, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: e797a931a3dd5834587389a884a0a3a4, type: 2}
-  - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: 919e9cd68c545914f8438c15c6b44b63, type: 2}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: f0fe0af8439b08e448e04473f5b872b5, type: 2}
   m_TileSpriteArray:
   - m_RefCount: 1
     m_Data: {fileID: 21300000, guid: d5ac3ff7ee5b040a4a3dab8ea7ab318c, type: 3}
-  - m_RefCount: 1
+  - m_RefCount: 2
     m_Data: {fileID: 21300000, guid: 7f5a1024a4c6044f19ac5d39fd393128, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 21300000, guid: 6f10374a433de44ffbe88dac878cd4d5, type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: 21300000, guid: 205a7d908db054a9e835d9ad2fc5bbb1, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: 21300000, guid: d0c632d0e834f4440830875d11f4344f, type: 3}
   m_TileMatrixArray:

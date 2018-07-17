@@ -5,8 +5,5 @@ using UnityEngine;
 
 namespace Signals
 {
-    public class StartSignal : Signal
-    {
-        
-    }
+    public class StartSignal : Signal { }
 }

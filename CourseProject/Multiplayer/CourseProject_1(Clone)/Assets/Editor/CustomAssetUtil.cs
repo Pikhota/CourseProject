@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace VY.CardGame.Editor
+namespace Editor
 {
     public class CustomAssetUtil
     {
